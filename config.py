@@ -1,5 +1,10 @@
-BOT_TOKEN = '5011786798:AAGUVIClBLUfElXlEFgCO0bHlQNj0ljzTuw'
-API_ID = 16696992
-API_HASH = '73e5f31946c310869aaec4815c8c8da9'
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+
+BOT_TOKEN = os.getenv('BOT_TOKEN')
+API_ID = os.getenv('API_ID')
+API_HASH = os.getenv('API_HASH')
 
