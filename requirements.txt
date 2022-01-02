@@ -4,6 +4,7 @@ idna==3.3
 pyaes==1.6.1
 pyasn1==0.4.8
 python-dotenv==0.19.2
+pytube==11.0.2
 requests==2.26.0
 rsa==4.7.2
 Telethon==1.23.0

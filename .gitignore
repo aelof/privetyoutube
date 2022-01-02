@@ -1,6 +1,7 @@
 __pycache__
-.idea
+.idea/
 bot.session
 config.py
 .env
 .venv/
+.DS_Store
