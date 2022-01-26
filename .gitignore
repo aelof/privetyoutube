@@ -3,5 +3,5 @@ __pycache__
 bot.session
 config.py
 .env
-.venv/
+.venv2/
 .DS_Store
